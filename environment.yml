@@ -1,0 +1,24 @@
+name: radar_adjustment_intercomparison
+channels:
+  - conda-forge
+dependencies:
+ - numpy
+ - scipy
+ - pandas
+ - matplotlib
+ - numba
+ - h5py
+ - xarray
+ - sparse
+ - netcdf4
+ - shapely
+ - pyproj
+ - tqdm
+ - pykrige
+ - scikit-learn
+ - future
+ - jupyterlab
+ - notebook
+ - bottleneck
+ - pytest
+ - wradlib

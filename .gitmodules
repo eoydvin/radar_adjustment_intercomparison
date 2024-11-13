@@ -1,0 +1,9 @@
+[submodule "mergeplg"]
+	path = mergeplg
+	url = https://github.com/eoydvin/mergeplg.git
+[submodule "poligrain"]
+	path = poligrain
+	url = https://github.com/OpenSenseAction/poligrain
+[submodule "pycomlink"]
+	path = pycomlink
+	url = https://github.com/pycomlink/pycomlink
