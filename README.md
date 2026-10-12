@@ -86,5 +86,5 @@ including variograms estimated from rain gauges.
 
 Both datasets are downloaded automatically by `1_data_preparation`.
 
-- OpenMRG: Andersson et al. (2022), https://doi.org/10.5281/zenodo.6673750 (CC BY-SA 4.0)
-- OpenRainER: Covi et al. (2025), https://zenodo.org/records/14731404 (CC BY 4.0)
+- OpenMRG: Andersson et al. (2022), version 1.1, https://zenodo.org/records/7107689 (CC BY-SA 4.0)
+- OpenRainER: Covi and Roversi (2025), version 1.1, https://zenodo.org/records/14731404 (CC BY 4.0)
