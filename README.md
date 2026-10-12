@@ -88,7 +88,3 @@ Both datasets are downloaded automatically by `1_data_preparation`.
 
 - OpenMRG: Andersson et al. (2022), https://doi.org/10.5281/zenodo.6673750 (CC BY-SA 4.0)
 - OpenRainER: Covi et al. (2025), https://zenodo.org/records/14731404 (CC BY 4.0)
-
-## License
-
-BSD 3-Clause, see `LICENSE`.
