@@ -6,8 +6,10 @@ This repository contains the code for the paper:
 
 > Øydvin, E., Covi, E., Graf, M., and Chwala, C.: Improving weather radar rainfall
 > estimates by merging with commercial microwave link data: a fully reproducible,
-> large-scale method intercomparison, Hydrol. Earth Syst. Sci., XX, XXXX–XXXX,
-> https://doi.org/XXXX, 2026.
+> large-scale method intercomparison, Hydrol. Earth Syst. Sci., accepted, 2026.
+
+The discussion version (preprint) is available at
+https://doi.org/10.5194/egusphere-2025-6371.
 
 Radar–CML merging methods (additive, multiplicative and kriging with external drift,
 using IDW, point kriging and block kriging) are compared on two open datasets:
