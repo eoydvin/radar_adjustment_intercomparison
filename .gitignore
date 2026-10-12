@@ -161,3 +161,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 *.nc
+
+# Data: only keep the small result files (metrics), everything else is downloaded or generated
+data/*
+!data/metrics/
