@@ -1,0 +1,2 @@
+,ref_thresh,est_thresh,pearson_correlation_coefficient,coefficient_of_variation,root_mean_square_error,mean_absolute_error,percent_bias,reference_mean_rainfall,estimate_mean_rainfall,false_positive_mean_rainfall,false_negative_mean_rainfall,N_all,N_nan,N_nan_ref,N_nan_est,dataset,method
+0,0.2,0.2,0.6814769398027923,1.0281958439112633,1.2949498786062017,0.6910526099034568,-11.126316414174973,1.25212915301825,1.1128133015393105,0.5080611704968826,1.5962809917355372,24277,0,0,0,OpenMRG,data/metrics/OpenMRG_add_p_idw_nnear500.csv

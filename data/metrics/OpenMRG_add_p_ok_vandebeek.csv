@@ -1,0 +1,2 @@
+,ref_thresh,est_thresh,pearson_correlation_coefficient,coefficient_of_variation,root_mean_square_error,mean_absolute_error,percent_bias,reference_mean_rainfall,estimate_mean_rainfall,false_positive_mean_rainfall,false_negative_mean_rainfall,N_all,N_nan,N_nan_ref,N_nan_est,dataset,method
+0,0.2,0.2,0.6948796818573878,1.0047244364567596,1.266057059343953,0.6713036501889954,-12.171213623846722,1.250958391771856,1.098701573563866,0.4985734145503365,1.5801619433198382,24277,0,0,0,OpenMRG,data/metrics/OpenMRG_add_p_ok_vandebeek.csv
