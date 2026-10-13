@@ -46,6 +46,7 @@ are independent of each other and of `3_adjust_radar`.
 | `5_paper_images` | Overview, performance and sensitivity figures | `figures/` |
 | `6_case_study` | Case-study figures | `figures/` |
 | `7_variogram_study` | Variogram parameter study | `figures/` |
+| `8_compress_adjusted_fields` | Lossless compression and metadata for archiving the merged fields on Zenodo (not needed to reproduce the results) | `data/adjusted_fields_compressed/` |
 
 ## Reproducing the results
 
@@ -80,9 +81,6 @@ Requires notebooks 1–2.
 Merged rainfall fields and their differences from radar and gauges for selected
 time steps, for both datasets.
 Requires notebooks 1–3.
-
-Some notebooks produce additional figures beyond those in the paper, e.g. variants
-including variograms estimated from rain gauges.
 
 ## Data
 
