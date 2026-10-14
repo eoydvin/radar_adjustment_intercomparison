@@ -56,6 +56,10 @@ reproduction runs all notebooks in order: notebook 1 downloads about 25 GB of
 data, and merging (notebook 3 and its sensitivity checks) takes several hours
 and about 15 GB of disk space.
 
+The merged rainfall fields from `3_adjust_radar.ipynb` are available on Zenodo:
+https://doi.org/10.5281/zenodo.23367571. To skip the merging, download the files
+into `data/adjusted_fields/` instead of running `3_adjust_radar.ipynb`.
+
 The figures fall into the following groups:
 
 **Dataset overview** (`5_paper_images`)

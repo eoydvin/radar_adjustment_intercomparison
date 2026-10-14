@@ -1,0 +1,28 @@
+{
+  "title": "Code for: Improving weather radar rainfall estimates by merging with commercial microwave link data: a fully reproducible, large-scale method intercomparison",
+  "upload_type": "software",
+  "description": "<p>Jupyter notebooks reproducing all results and figures of Øydvin et al. (2026), Hydrol. Earth Syst. Sci. Radar–CML merging methods (additive, multiplicative and kriging with external drift, using IDW, point kriging and block kriging) are compared on two open datasets, OpenMRG (Gothenburg, Sweden) and OpenRainER (Emilia-Romagna, Italy). Merging is done with mergeplg. The evaluation metrics are included, so most figures can be reproduced without running the merging.</p>",
+  "creators": [
+    {"name": "Øydvin, Erlend"},
+    {"name": "Covi, Elia"},
+    {"name": "Graf, Maximilian"},
+    {"name": "Chwala, Christian"}
+  ],
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "weather radar",
+    "commercial microwave links",
+    "opportunistic sensing",
+    "rainfall",
+    "radar adjustment",
+    "merging",
+    "kriging"
+  ],
+  "related_identifiers": [
+    {"identifier": "10.5194/egusphere-2025-6371", "relation": "isSupplementTo", "scheme": "doi", "resource_type": "publication-preprint"},
+    {"identifier": "10.5281/zenodo.23367571", "relation": "isSupplementedBy", "scheme": "doi", "resource_type": "dataset"},
+    {"identifier": "10.5281/zenodo.23366659", "relation": "requires", "scheme": "doi", "resource_type": "software"},
+    {"identifier": "10.5281/zenodo.7107689", "relation": "references", "scheme": "doi", "resource_type": "dataset"},
+    {"identifier": "10.5281/zenodo.14731404", "relation": "references", "scheme": "doi", "resource_type": "dataset"}
+  ]
+}
