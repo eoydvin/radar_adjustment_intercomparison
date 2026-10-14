@@ -1,0 +1,2 @@
+,ref_thresh,est_thresh,pearson_correlation_coefficient,coefficient_of_variation,root_mean_square_error,mean_absolute_error,percent_bias,reference_mean_rainfall,estimate_mean_rainfall,false_positive_mean_rainfall,false_negative_mean_rainfall,N_all,N_nan,N_nan_ref,N_nan_est,dataset,method
+0,0.2,0.2,0.6882299952778034,1.0150233286747035,1.2949491778320776,0.6889721379959468,-13.184876564474829,1.2651536643026005,1.0983447153133725,0.4953679312694591,1.5799307958477509,24277,0,0,0,OpenMRG,data/metrics/OpenMRG_ked_b_variogram_gauge.csv

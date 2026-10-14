@@ -1,0 +1,2 @@
+,ref_thresh,est_thresh,pearson_correlation_coefficient,coefficient_of_variation,root_mean_square_error,mean_absolute_error,percent_bias,reference_mean_rainfall,estimate_mean_rainfall,false_positive_mean_rainfall,false_negative_mean_rainfall,N_all,N_nan,N_nan_ref,N_nan_est,dataset,method
+0,0.2,0.2,0.7488772828180068,1.4521345070128895,3.2193459586748707,1.276242945850819,-25.28392445256801,2.1841151538414647,1.6318851283870992,0.5810721297258417,0.34952622643700165,704033,66287,66287,0,OpenRainER,data/metrics/OpenRainER_mul_b_ok_nc.csv

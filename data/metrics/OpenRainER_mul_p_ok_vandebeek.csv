@@ -1,0 +1,2 @@
+,ref_thresh,est_thresh,pearson_correlation_coefficient,coefficient_of_variation,root_mean_square_error,mean_absolute_error,percent_bias,reference_mean_rainfall,estimate_mean_rainfall,false_positive_mean_rainfall,false_negative_mean_rainfall,N_all,N_nan,N_nan_ref,N_nan_est,dataset,method
+0,0.2,0.2,0.7510749068617539,1.5963842588800767,2.8462312723765963,1.180471076551981,-0.9386408677033747,1.782892845452673,1.7661578845778945,0.627522626141989,0.30810876830541395,704033,66287,66287,0,OpenRainER,data/metrics/OpenRainER_mul_p_ok_vandebeek.csv
